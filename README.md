@@ -1,5 +1,4 @@
-## Contact Info
-
+## Intro
 Hello, i'm a current IT student you can write me at
 neithanvarvar@hotmail.com 
 neithanvar (Discord)
