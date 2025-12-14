@@ -1,16 +1,19 @@
-## Hi there 👋
+## Contact Info
 
-<!--
-**NeithanT/NeithanT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, i'm a current IT student you can write me at
+neithanvarvar@hotmail.com 
+neithanvar (Discord)
 
-Here are some ideas to get you started:
+## Tecnologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spring Boot, Angular, PostgreSQL, AWS(Mostly main platforms like S3, compute, etc), Git/GitHub, Linux(Fedora is my daily driver), Bash/Shell, Docker, Kubernates and nginx (WIP)
+
+I have worked with these languages:
+Java, Python, JavaScript/TypeScript , C, C++, Rust, assembly with the AT&T syntax and nasm (I don't know all the syscalls and details but yeah)
+
+## Projects
+
+## Need any help with your code? or questions about my projects
+
+hit me up at n.vargas.5@estudiantec.cr or at neithanvar in Discord
+it'll be glad to help
