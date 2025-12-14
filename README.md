@@ -13,6 +13,14 @@ Java, Python, JavaScript/TypeScript , C, C++, Rust, assembly with the AT&T synta
 
 ## Projects
 
+LLM Chat-App, this is built with Spring Boot, Angular and Keycloak! Using a lightweight OS in ollama as a base demostration of the capabilities
+
+My personal webpage, this is built with Angular and has the contact info and guides i have written ...
+
+Qr-Generator/Scanner
+In the Web, to understand how a qr is built
+In NASM, a basic in an assembly course
+
 ## Need any help with your code? or questions about my projects
 
 hit me up at n.vargas.5@estudiantec.cr or at neithanvar in Discord
