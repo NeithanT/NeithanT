@@ -2,7 +2,9 @@
 I'm a current IT student you can write me at my personal email
 neithanvarvar@hotmail.com
 
-I would like to focus on ML, Data Cience or System Developer in a futre
+I'm currently progressing towards being a full stack dev
+But i can accept any other areas, as a challenge
+
 ## Tecnologies
 
 Spring Boot, Angular, PostgreSQL, AWS(Mostly main platforms like S3, compute, etc), Git/GitHub, Linux(Fedora is my daily driver), Bash/Shell, Docker, Kubernates and nginx (WIP)
